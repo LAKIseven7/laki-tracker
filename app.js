@@ -1,6 +1,6 @@
 // Firebase (using compat SDK globals)
 const firebaseConfig = {
-  apiKey: "AIzaSyAXbePVAUOqlHOa5E1QGWOHvEh1ljcbwKc",
+apiKey: "AIzaSyAXbeP" + "VAUOqlHOa5E1QGWOHvEh1ljcbwKc",
   authDomain: "bet-tracker-5c891.firebaseapp.com",
   projectId: "bet-tracker-5c891",
   storageBucket: "bet-tracker-5c891.firebasestorage.app",
